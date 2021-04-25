@@ -1,5 +1,11 @@
 {
-	"TotalSmaple": 40,
-	"Answered": 31,
-	"NotAnswered": 9
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
