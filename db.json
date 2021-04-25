@@ -1,7 +1,7 @@
 {
   "answered_graph": {
-	"TotalSample": 40,
-	"Answered": 31,
-	"NotAnswered": 9
+	"totalSample": 40,
+	"answered": 31,
+	"notAnswered": 9
   }
 }
