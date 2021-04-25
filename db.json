@@ -7,5 +7,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "answered_graph": {
+    "TotalSmaple": 40,
+	  "Answered": 31,
+    "NotAnswered": 9
   }
 }
