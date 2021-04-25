@@ -1,16 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "answered_graph": {
-    "TotalSmaple": 40,
-	  "Answered": 31,
-    "NotAnswered": 9
+	"TotalSample": 40,
+	"Answered": 31,
+	"NotAnswered": 9
   }
 }
